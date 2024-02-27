@@ -1,0 +1,75 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Developer Conference in Semiconductor Ecosystem",
+      "image": "https://i.ibb.co/YWW0thb/cpu-processor-2-C4-WESLYBY.jpg",
+      "date": "2023-11-15",
+      "description": "will act as a major forum for the presentation of innovative ideas, approaches, developments, and research projects in the areas of Semiconductor Ecosystem.",
+      "price": "$80"
+    },
+    {
+      "id": 2,
+      "title": "Training Program in SOC",
+
+      "image": "https://i.ibb.co/Q8RcQkS/computer-keyboard-A3-ZQ2-UJTZ8.jpg",
+      "date": "2024-01-16",
+      "description": "The SOC Analyst training curriculum has been carefully crafted to provide aspiring and present SOC Analysts with a thorough knowledge of SOC operations and processes.",
+      "price": "$70"
+    },
+    {
+      "id": 3,
+      "title": "Workshop on Time Management",
+      "image": "https://i.ibb.co/1nphZM5/time-management-techniques.jpg",
+      "date": "2024-02-10",
+      "description": "This Workshop has been designed for anyone who wants to increase personal productivity and minimise stress caused through a reactive or responsive mode of working.",
+      "price": "Free"
+    },
+    {
+      "id": 4,
+      "title": "Career Fair for IT Professionals",
+      "image": "https://i.ibb.co/nmnvGs8/istockphoto-628483496-612x612.jpg",
+      "date": "2024-03-12",
+      "description": "Connect with top IT companies and explore job opportunities in the technology sector.",
+      "price": "Free"
+    },
+    {
+      "id": 5,
+      "title": "Training Program in Corporate Behavior Management",
+      "image": "https://i.ibb.co/9yL6W3T/business-people-WC6-HIXVOYF.jpg",
+      "date": "2023-12-05",
+      "description": "Our Behavioural Skills Training intervention is an experiential and evidence-based approach for training employees, team leaders, and managers to learn, practice, and implement behaviour change and related attitudes to enhance personal efficiency and performance.",
+      "price": "$60"
+    },
+    {
+      "id": 6,
+      "title": "Educational Conference on Data Science",
+      "image": "https://i.ibb.co/Ky6qsHM/Conference-on-Data-Science.webp",
+      "date": "2024-05-09",
+      "description": "will act as a major forum for the presentation of innovative ideas, approaches, developments, and research projects in the areas of Data Science and Machine Learning.",
+      "price": "$90"
+    }
+  ],
+  "team": [
+    {
+      "id": 1,
+      "name": "Henri Robert",
+      "img": "https://i.ibb.co/K9b1fnG/team1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Heek Alien",
+      "img": "https://i.ibb.co/yyQj0xs/team2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Arone Ronald",
+      "img": "https://i.ibb.co/51QcLrv/team3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Heery Jon",
+      "img": "https://i.ibb.co/wN0TTGQ/speaker5.jpg"
+    }
+  ]
+}
